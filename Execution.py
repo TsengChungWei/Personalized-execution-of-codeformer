@@ -6,7 +6,7 @@ def main(min_scale = 1, max_scale = 4):
     repair_path = 'C:\\Users\\user_name\\Desktop'
     repair_folder = 'input'
     repair_result_folder = 'output'
-    CodeFormer_path = 'C:\\Users\\user_name\\CodeFormer'
+    CodeFormer_path = 'C:\\Users\\user_name\\Desktop\\CodeFormer'
 
     n = max_scale + 1
     while n > max_scale:
